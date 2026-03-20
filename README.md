@@ -1,6 +1,6 @@
-# vr-kanji-spot-the-difference-001
+# vr-kanji-spot-the-difference-002
 
-【VRゲーム】漢字間違い探し【001】木性、貫索・石門の部屋。
+【VRゲーム】漢字間違い探し【002】火性、鳳閣・調舒の部屋。
 
 （A-Frameで作成）
 
